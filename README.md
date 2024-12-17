@@ -2,7 +2,7 @@
 
 Current Role: Program Analyst at GSA | PowerShell Enthusiast | Writer & Editor
 
-Interests: Automating workflows, analyzing data, improving government accountability, and creating clear, engaging content.
+Interests: Automating workflows, analyzing data, improving government transparency and accountability, and creating clear, engaging content.
 
 Learning: Always exploring new ways to use scripting and automation to solve real-world problems. Currently learning to knit!
 
