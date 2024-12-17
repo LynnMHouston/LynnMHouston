@@ -14,7 +14,7 @@ Writing & Editing: Technical documentation, research reports
 
 Automation: Microsoft Office integrations, workflow optimizations
 
-Data Analysis: Research project coordination, data analysis, and insights for fraud detection & prevention
+Data Analysis: Research project coordination, APIs, and insights for fraud detection & prevention
 
 🔍 What I Work On
 
