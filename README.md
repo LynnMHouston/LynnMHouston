@@ -20,7 +20,7 @@ Data Analysis: Research project coordination, APIs, and insights for fraud detec
 
 Simplifying complex processes with automation scripts
 
-Creating accessible solutions for non-technical users, like user-friendly tools or databases
+Creating accessible solutions for non-technical users
 
 Writing compelling narratives to connect data, policy, and real-world impact
 
