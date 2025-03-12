@@ -1,14 +1,14 @@
 🌟 About Me
 
-Current Role: Program Analyst at GSA | PowerShell Enthusiast | Writer & Editor
+Current Role: Technical Writer | Program Content Strategist | PowerShell Enthusiast
 
-Interests: Automating workflows, analyzing data, improving government transparency and accountability, and creating clear, engaging content.
+Interests: Automating workflows, analyzing data, improving government transparency and accountability
 
-Learning: Always exploring new ways to use scripting and automation to solve real-world problems. Currently learning to knit!
+Learning: Always exploring new ways to use scripting and automation to solve problems. Currently learning to knit!
 
 🔧 Skills & Tools
 
-Scripting: PowerShell (with Python integration), web scraping, PDF parsing
+Scripting: PowerShell (with Python integration), web scraping, data cleaning/standardization, PDF parsing
 
 Writing & Editing: Technical documentation, research reports
 
