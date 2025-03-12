@@ -1,6 +1,6 @@
 🌟 About Me
 
-Current Role: Technical Writer | Program Content Strategist | PowerShell Enthusiast
+*Technical Writer | Program Content Strategist | PowerShell Enthusiast*
 
 Interests: Automating workflows, analyzing data, improving government transparency and accountability
 
